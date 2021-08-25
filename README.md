@@ -1,2 +1,2 @@
 # PaperManger
-This document is about some deep learning compilers papers
+This folder contains some papers on deep learning compilers, which are summarized as follows, and students in need can download and read them.
